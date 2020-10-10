@@ -1,4 +1,6 @@
 ### Hi there 👋
+📚 Studying computer science at UC3M
+🔭 Discovering new technologies
 
 <!--
 **raporpe/raporpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

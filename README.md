@@ -2,7 +2,6 @@
 - 🐳  Learnign C++, Go and Docker
 - 🌱  Studying computer science at UC3M
 - 🔭  Discovering new technologies
-- ✨  Fun fact: Met Bjarne Stroustrup without knowing C++
 
 <!--
 **raporpe/raporpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

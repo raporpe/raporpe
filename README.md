@@ -1,4 +1,4 @@
 ### Hi there 👋
-- 🐳  Learning Cyber security, k8s and cloud technologies
-- 🌱  Studying computer science at UC3M
-- 🔭  Discovering new technologies
+- 🐳  Learning DevOps/SRE
+- 📖  Kubernetes evangelist
+- 🌱  Studying Computer Science at Carlos III University of Madrid

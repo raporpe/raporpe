@@ -2,7 +2,7 @@
 
 I'm a Software Engineer II at Microsoft, based in Barcelona, Spain.
 
-I'm an engineer with a strong product mindset, and I care about making technology simple and genuinely useful in people's lives. At Microsoft I work on backend and product experiences for Copilot and Bing. Outside of work, I enjoy turning ideas into real products and taking side projects from zero to real users.
+I'm an engineer with a strong product mindset, and I care about making technology simple and genuinely useful in people's lives. At Microsoft I work on backend and product experiences for Copilot and Bing. I also love infrastructure, networking, and Kubernetes, and building systems that stay reliable as they scale. Outside of work, I enjoy turning ideas into real products and taking side projects from zero to real users.
 
 A few things I've built:
 
